@@ -3,3 +3,27 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+image{
+  align-items: center;
+}
+
+figure{
+  align-items: center;
+  border-image: fill;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+head{
+  align-items: center;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
